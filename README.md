@@ -1,7 +1,7 @@
 # CameraX Sample
 
 Welcome to the repository for the CameraX Sample project. This repository contains the code and resources discussed in my blog post, 
-[Blog Post Title](link_to_your_blog_post), where I explore how to use the CameraX API for image analysis in Jetpack Compose.
+[How to use CameraX in Jetpack Compose with the ImageAnalysis use case]([link_to_your_blog_post](https://jordan-mungujakisa.medium.com/how-to-use-camerax-in-jetpack-compose-with-the-imageanalysis-use-case-f0e8f5261c3b)), where I explore how to use the CameraX API for image analysis in Jetpack Compose.
 
 ## Overview
 

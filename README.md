@@ -1,7 +1,7 @@
 # CameraX Sample
 
 Welcome to the repository for the CameraX Sample project. This repository contains the code and resources discussed in my blog post, 
-[How to use CameraX in Jetpack Compose with the ImageAnalysis use case]([link_to_your_blog_post](https://jordan-mungujakisa.medium.com/how-to-use-camerax-in-jetpack-compose-with-the-imageanalysis-use-case-f0e8f5261c3b)), where I explore how to use the CameraX API for image analysis in Jetpack Compose.
+[How to use CameraX in Jetpack Compose with the ImageAnalysis use case]([link_to_your_blog_post](https://jordan-mungujakisa.medium.com/how-to-use-camerax-in-jetpack-compose-with-the-imageanalysis-use-case-f0e8f5261c3b), where I explore how to use the CameraX API for image analysis in Jetpack Compose.
 
 ## Overview
 
@@ -44,10 +44,6 @@ Make sure to check the project's `build.gradle` files for the most up-to-date in
 
 If you have any questions, feedback, or suggestions, please feel free to [open an issue](https://github.com/jordan-jakisa/CameraXSample/issues) in this repository. I'd love to hear from you and continue improving this sample project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-**[Your Name](link_to_your_website)** | [Blog](link_to_your_blog) | [LinkedIn](link_to_your_linkedin) | [Twitter](link_to_your_twitter)
+[LinkedIn](https://www.linkedin.com/in/jordanmungujakisa/) | [Twitter](https://twitter.com/JakisaJordan)

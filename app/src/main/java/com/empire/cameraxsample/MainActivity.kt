@@ -80,7 +80,6 @@ fun CameraScreen() {
     Box(modifier = Modifier.fillMaxSize()) {
         AndroidView(factory = { previewView }, modifier = Modifier.fillMaxSize())
 
-        // Show loading indicator when isLoading is true
         if (isLoading) {
             CircularProgressIndicator(
                 modifier = Modifier
